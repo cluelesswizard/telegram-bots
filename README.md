@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Telegram Bots</h1>
-    <i>A collective list of useful Telegram bots</i>
+    <i>A collective list of useful Telegram bots :)</i>
 </div>
 
 <br />
